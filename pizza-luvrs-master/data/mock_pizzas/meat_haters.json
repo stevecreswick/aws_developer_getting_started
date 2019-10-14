@@ -1,0 +1,14 @@
+{
+  "name": "Meat Haters",
+  "toppings": [
+    "dough_crust",
+    "marinara_sauce",
+    "mozzarella_cheese",
+    "cheddar_cheese",
+    "mushrooms",
+    "banana_peppers",
+    "green_peppers"
+  ],
+  "img": "//pluralsight-aws-developer-class-sc.s3-us-west-2.amazonaws.com/pizzas/meat-haters.png",
+  "username": "ryan"
+}

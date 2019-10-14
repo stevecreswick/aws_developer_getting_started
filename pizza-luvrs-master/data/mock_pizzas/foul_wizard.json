@@ -1,0 +1,12 @@
+{
+  "name": "Foul Wizard",
+  "toppings": [
+    "dough_crust",
+    "marinara_sauce",
+    "banana_peppers",
+    "rainbows",
+    "money"
+  ],
+  "img": "//pluralsight-aws-developer-class-sc.s3-us-west-2.amazonaws.com/foul-wizard.png",
+  "username": "kathy"
+}
